@@ -4,6 +4,6 @@ This is a Python program for merging multiple PDF files into a single PDF file. 
 
 ## Features
 
-- Can give a custom file name to the output pdf.
-- In-built option to open the merged pdf.
+- Can give a **Custom file name** to the output pdf.
+- In-built option to **Read** the merged pdf.
 
